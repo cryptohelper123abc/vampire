@@ -19,11 +19,18 @@ VAMP is a true deflationary token only on FTM.
 
 
 Website: https://vampire.biz
+
 Twitter: https://twitter.com/VampToken
+
 Telegram: https://t.me/VampireToken
+
 Discord: https://discord.gg/ANAqkm5xrk
 
+
 Whitepaper: https://vampire.biz/whitepaper
+
 Bloodpaper: https://vampire.biz/bloodpaper
+
 Team: https://vampire.biz/team
+
 Audits: https://vampire.biz/audits
